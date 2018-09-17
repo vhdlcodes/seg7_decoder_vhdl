@@ -1,0 +1,30 @@
+# Ignore everything
+*
+
+*\.cache/
+*\.hw/
+*\.ip_user_files/
+*\.runs/
+*\.sim/
+*\.synth/
+*\.work/
+
+# But not these files...
+!.gitignore
+!*.sv
+!*.v
+!*.vhd
+!*.md
+!*.XDC
+!*.xdc
+!*.xpr
+!*.do
+!Makefile
+# etc...
+
+# ...even if they are in subdirectories
+!*/rtl
+!*/constraints
+!*/tb
+!*/sim
+!*/
