@@ -2,7 +2,7 @@
 --
 --  Project          : Simple 7-seg decoder
 --  File Name        : seg7_decoder.vhd
---  Created By       : Me
+--  Created By       : Prasad Pandit
 --  Contact          : prasadp4009@gmail.com
 --  Last Modified    : 09/17/2018
 --  Revision History : 1v0
